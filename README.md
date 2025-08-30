@@ -3,7 +3,7 @@
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/saiyam1508/PlayWright-Automation.git
+git clone https://github.com/ineyhathakur/Project-TitanOS.git
 cd your-repo
 ```
 
